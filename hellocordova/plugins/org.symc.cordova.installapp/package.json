@@ -1,0 +1,19 @@
+{
+    "version": "0.0.1",
+    "name": "org.symc.cordova.installapp",
+    "cordova_name": "Install Application",
+    "description": "Cordova Install Application Plugin",
+    "license": "Apache 2.0",
+    "repo": "",
+    "issue": "",
+    "keywords": [
+        "cordova",
+        "install",
+        "application"
+    ],
+    "platforms": [
+        "android"
+    ],
+    "engines": [],
+    "englishdoc": ""
+}
